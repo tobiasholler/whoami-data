@@ -1,0 +1,51 @@
+Einfach:
+  Schauspieler:
+    # US
+      - Matt Damon
+      - Kevin Spacey
+    # GB
+      - Benedict Cumberbatch
+  Musiker:
+    # GB
+    - Freddy Mercury, Sänger
+    - Ed Sheeran, Sänger
+    - 
+    # DE
+    - Helene Fischer, Sängerin
+    - Florian Silbereisen
+    - Xavier Naidoo, Sänger
+    # IT
+    - Eros Ramazotti
+  Politiker:
+    # DE
+    - Angela Merkel, Deutsche Bundeskanzlerin
+    - Horst Seehofer, Bayrischer Politiker
+    # ZA
+    - Nelson Mandela, Südafrikanischer Aktivist und Politiker
+  Fiktive Figuren:
+    Generell:
+      - Mr. Bean
+    Superhelden:
+      - Superman
+      - Spiderman
+      - Batman
+      - Supergirl
+      - Ironman
+    Fantasy Charaktere:
+      - Harry Potter
+    Cartoon Charaktere:
+      - Mickey Maus
+      - Mini Maus
+      - Goofy
+      - Popeye
+      - Simba, Film König der Löwen
+Mittel:
+  Politiker:
+    - Abraham Lincoln, Amerikanischer Präsident
+    - Napoleon Bonaparte, Fanzösischer General
+    - Konrad Adenauer, Erster Deutscher Bundeskanzler
+    - Emanuel Macron
+Schwer:
+  Politiker:
+    - Otto von Bismarck
+    - François Hollande, Französischer Präsident
